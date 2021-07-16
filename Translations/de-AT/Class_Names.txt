@@ -9,10 +9,13 @@ SCP-079
 Chaos Insurgent
 SCP-096
 SCP-049-2
-Nine-tailed Fox Leutnant
-Nine-tailed Fox Commander
-Nine-tailed Fox Kadett
+Nine-tailed Fox Sergeant
+Nine-tailed Fox Kommandant
+Nine-tailed Fox Private
 Tutorial
 Sichaheitspersonal
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Schütze
+Chaos Insurgency Untadrücker
+Chaos Insurgency Marodeur
