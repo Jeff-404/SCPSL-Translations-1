@@ -34,3 +34,4 @@
 <size=80>Bitte woatn</size>\nVeraobeitn dea Server Sichaheitsverifikation...
 <size=80>Vabindung getrennt</size>\nFehla beim Veroabeitn dea Server Sichaheitsverifikation.
 <size=80>Vabindung getrennt</size>\nVeroabeitung dea Server Sichaheitsverifikation woa z'longsom fia den Server.\nBitte versuachs nuamoi neich oda kontaktier den Server Administrator.
+<size=80>AUTHENTIFIKATIONSFEHLER</size>\nNochricht vom zentralen Server: [message].
