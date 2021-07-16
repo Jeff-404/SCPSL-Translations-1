@@ -34,3 +34,7 @@ Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Woat [time] bist du wieder [item] benutzen konnst.
 HOID <color=white><b>F1</b></color> FIA MEHR INFORMATIONEN
 Du bist gefesslt woan\n<size=40>Foig den Onweisungen oda frog deine Teammates um Hüfe</size>
+Du bist wida eigfonga worn vo de Nine-Tailed Fox.\nMid ana Gfohr weniga in da Eirichtung, homs Vastärkung griagn kina.
+Du bist gfonga gnuma worn ois Wissnschoftla vo dea Chaos Insurgency.\nSe hom si an Voatei durch dei Info hoin kina.
+RUNDN STARTET IN: <color=yellow>{0}</color>s
+RUNDN START IS <color=#FF5050>PAUSIERT</color>
