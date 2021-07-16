@@ -1,0 +1,10 @@
+<color=green>GÖFFNET</color>
+<color=#07A2FF>GSCHLOSSN</color>
+<color=orange>BEWEGET SI</color>
+<color=red>VASCHLOSSN</color>
+<color=red>FÖHLA</color>
+<color=red>ZUGONG VAWEIGERT</color>
+<color=green>ZUGONG GWÄHRT</color>
+<color=#07A2FF>ZUGONGSKORTN EAFORDALICH</color>
+<color=orange>BITTE PASSIERN</color>
+<color=orange>SCHLIASSN</color>
