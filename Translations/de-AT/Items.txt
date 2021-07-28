@@ -1,37 +1,37 @@
-0~Hausmeister Zugangskarte
-1~Wissenschaftler Zugangskarte
-2~Hauptwissenschaftler Zugangskarte
-3~Zonenmanager Zugangskarte
-4~Sicherheitspersonal Zugangskarte
-5~MTF Gefreiter Zugangskarte
-6~Eindämmungsingenieur Zugangskarte
-7~MTF Hauptmann Zugangskarte
-8~MTF Unteroffizier Zugangskarte
-9~Einrichtungsmanager Zugangskarte
-10~Chaos Insurgency Zugangsgerät
-11~O5-Level Zugangskarte
+0~Hausmeista Zuagongskoatn
+1~Wissenschoftla Zuagongskoatn
+2~Hauptwissenschoftla Zuagongskoatn
+3~Zonenmanager Zuagongskoatn
+4~Sichaheitspersonal Zuagongskoatn
+5~MTF Gfreiter Zuagongskoatn
+6~Eindämmungsingenieur Zuagongskoatn
+7~MTF Hauptmonn Zuagongskoatn
+8~MTF Untaoffizir Zugangskarte
+9~Eirichtungsmanager Zuagongskoatn
+10~Chaos Insurgency Zuagongsgerät
+11~O5-level Zuagongskoatn
 12~Radio
-13~COM-15
-14~Erste Hilfe Paket~Heilt deine Wunden!
-15~Taschenlampe~Es werde Licht!
-16~Micro H.I.D.~Mobiler\nHochintensiver\nEnergieentladungswerfer
-17~SCP-500~Das Allheilmittel
-18~SCP-207~Erhöht auf schädliche Weise die motorischen Fähigkeiten.
+13~COM-15 Pistoin
+14~Erste Hüfe Pakerl~Heilt deine Wundn!
+15~Toschenlompen~Es wiad Licht!
+16~Micro H.I.D.~Mobiler\nHochintensiva\nEnergieentlodungswerfer
+17~SCP-500~Des Allheilmittl
+18~SCP-207~Erhöht auf schädliche Weise de motorischen Fähigkeitn.
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Splittergranate~Es macht Boom!
-26~Blendgranate~Blendet deine Feinde!
+25~Splittagranatn~Es mocht Boom!
+26~Blendgranatn~Blendet deine Feinde!
 30~COM-18
-31~SCP-018~Superball, welcher mit extremer Effizienz umher springt.
-32~SCP-268~Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer es wird mit der Umgebung interagiert.
-33~Adrenaline~Erhöht deine Ausdauer vorübergehend.
-34~Painkillers~Lindert leichte Verletzungen.
-35~Coin~Du bist dir nicht sicher warum du sowas mit dir herum tragen solltest...
-36~Leichte Körperpanzerung
-37~Kampfpanzerung
-38~Schwere Körperpanzerung
-39~.44 Revolver
+31~SCP-018~Superboi, wöcha mit ana extremen Effizienz herum springt
+32~SCP-268~Wenn trogen, mocht er di fia a boar Sekunden unsichtbar, außa du wirst durch Interaktionen onderer Spieler gstört.
+33~Adrenaline~Erhöht dei Ausdauer vorübergehnd.
+34~Schmerzmittel~Lindat leichte Verletzungen.
+35~Coin~Warum genau trogst du des bei dia?
+36~Leichte Köapaponzerung
+37~Kompfponzerung
+38~Schware Köaperponzerung
+39~.44 Revoiver
 40~AK
-41~Schrotflinte
+41~Schrotflintm
