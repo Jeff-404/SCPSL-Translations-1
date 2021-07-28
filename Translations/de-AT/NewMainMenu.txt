@@ -10,9 +10,9 @@ Historie
 Freind
 Suach an Server
 Erstö an Server
-Neich Vabindn
-Direkt Vabindn
-Aktualisirn
+<size=12>Neich Vabindn</size>
+<size=15>Direkt Vabindn</<size=12>size>
+<size=13>Aktualisirn</size>
 Versteck lare Server
 Versteck voihe Server
 Ka Whitelist
@@ -78,3 +78,11 @@ Zag Steamprofü on
 Ealaubt onderen Spielan dei Steamprofü aufz'ruafn wenns in dea Spielalistn auf dei Icon klickn.
 Do Not Track (DNT)
 Veabietet am Server deine Doten (IP Adresse, User ID, etc.) zu nutzn, außa fia Zwecke, wöche dea Serversichahat dianen.
+Grafik API
+<size=18>An Server direkt im Spü zu erstön is ned mehr Nativ unterstützt.\nEs gibt zur Zeit 3 Möglichkeitn an SCP:SL Server zu hosten:\n- Du konnst an Server auf deim Rechna mit dem Programm SCP:SL Dedicated Server (Steamapp ID: 996560) hostn.\n – Du konnst an VPS oder dediziertn Server mietn und doat den SCP:SL Dedicated Server drauf laufn lossn.\n – Du konnst an voainstalliertn SCP:SL Server von am Hoster (z.B. Zap Hosting) mietn.\n\nKlick auf die Links weita untn um mehr Informationen dazua zu erhoiten.\nDu konnst unsan Tech-Support bei Problemen um Hüfe bittn (Link zu unsam Discordserver ko im Hauptmenü gfundn weadn)</size>
+<size=18>ERSTÖ TROTZDEM</size>
+<size=18>MEHR LESN</size>
+<size=18>MIET AN SERVER</size>
+<size=18>OBBRECHN</size>
+Sekundn
+Für das spün vo unsam Spü!
