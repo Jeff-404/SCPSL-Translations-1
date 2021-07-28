@@ -1,0 +1,15 @@
+Munition {0}/{1} {2}
+Schodn
+Feierrotn
+Hüftfeier Genauigkeit
+Zülende Genauigkeit
+Gwicht
+Längn
+DROP:
+Höm Wirksomkeit
+Westn Wirksomkeit
+Ausdauervabrauch
+Bewegungsgschwindigkeit
+Itemlimit:
+Munitionslimit:
+{0} total
