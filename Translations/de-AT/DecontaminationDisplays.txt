@@ -1,7 +1,7 @@
-<size=7>DEKONTAMINATIONS-PROZEDUR BEGINNT IN</size>
-BITTE VALOSS DES AREAL
-!  BITTE EVAKUIERN  !
-<size=10>Bedrohungsanalyse in Beorbeitung</size>
-BEREITE SICHAHEITSSYSTEME VOR
-Systeme bereit zum Starten
-Inititalisiere Prozedur P-B-3
+<size=7>DEKONTAMINATIONS-PROZEDUA BEGINNT IN</size>
+BITTE VALOSS AS AREAL
+!  BITTE EVAKUIAN  !
+<size=10>Bedrohungsanaliasn in Beoabatung</size>
+BREIT SICHAHATSSYSTEME VOA
+Systeme breit zum Stoatn
+Inititalisia Prozedua P-B-3
