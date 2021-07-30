@@ -2,7 +2,7 @@ SCP-173
 D-Kloss
 Hinich
 SCP-106
-Nine-tailed Fox Wissenschoftler
+Nine-tailed Fox Wissenschoftla
 SCP-049
 Wissenschoftla
 SCP-079
@@ -13,9 +13,9 @@ Nine-tailed Fox Sergeant
 Nine-tailed Fox Kommandant
 Nine-tailed Fox Private
 Tutorial
-Sichaheitspersonal
+Sichahoitspersonal
 SCP-939-53
 SCP-939-89
-Chaos Insurgency Schütze
-Chaos Insurgency Untadrücker
-Chaos Insurgency Marodeur
+Chaos Insurgency Schützn
+Chaos Insurgency Untadrucka
+Chaos Insurgency Maroteur
