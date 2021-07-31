@@ -1,4 +1,4 @@
 <size=180><color=red>DEAKTIVIAT</color></size>
 <color=red><size=200>BITTE WOATN</size></color>
 <color=lime><size=180>BEREIT</size></color>
-DETONATION UNAUSWEICHLICH
+DETONATION UNAUSWACHLICH
