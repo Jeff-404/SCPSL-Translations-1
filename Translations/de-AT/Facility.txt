@@ -1,40 +1,40 @@
 SPROCHCHAT LAUTSTÄRKN
 Jo
-START ERZWINGA
-SCP-106 EIDÄMMUNGS-\nPROZEDUR EILEITEN
-Invertier de Y-Ochsen
+STOAT ERZWINGAN
+SCP-106 EIDÄMMUNGS-\nPROZEDUR EILEITN
+Invertia de Y-Ochsen
 ZUSOMMENFOSSUNG
 Obbrechen
 I N V E N T A R
 HÖIGKEIT
 EISTELLUNGEN
-SERVER VERLOSSEN
-ALPHA WARHEAD IS DEAKTIVIERT
-ZUGONG VEAWEIGAT
+SERVER VALOSSEN
+ALPHA WARHEAD IS DEAKTIVIAT
+ZUAGONG VEAWEIGAT
 SPROCHCHAT
-INVENTAR VOI
-<size=20>MAUSEMPFINDLICHKEIT</size>
+INVENTAR VUI
+<size=20>MAUSEMPFINDLICHKAT</size>
 HACKE
 HEBT AUF...
-Des erhöhn dea Höigkeit <b>verschlechtert de Stimmung vom Spü seah</b>.\nVersuach de Eistellung so niadrig wie möglich zum hoiden.\n<b>De Stondardeistellung is empfoihn.</b>
-[1] DIARN ÖFFNEN/SCHLIASSEN\n[2] VERRIAGEL DIARN*\n\n*Des verriageln vo Diaren verbraucht dei Spezialfähigkeit.
-DIAR IS VON SCP-079 VERRIEGELT WORN
-Voibüdmodus
-Bist du da sicha dass du den Server verlossen wüst?
-Grundeistellungen. Volle Listn vo Eistellungen befindn si im Hauptmenü.
-WOATN AUF SPIELA
-ZUSOMMENFOSSUNG
+As Erhöhn dea Höigkeit <b>verschlechtat de Stimmung vom Spü seah</b>.\nVersuach de Eistellung so niadrig wie möglich zum hoitn.\n<b>De Stondardeistellung is empfoihn.</b>
+[1] DIARN ÖFFNAN/SCHLIASSN\n[2] VERRIAGL DIARN*\n\n*Des Verriageln von Diarn vabraucht dei Spezialfähigkeit.
+DIAR IS VON SCP-079 VERRIEGELT WOARDN
+Vuibüdmodus
+Bist da sicha, dasst den Server valossen wüst?
+Grundeistellungen. Vulle Listn von Eistellungen befindn si im Haptmenü.
+WOATN AUF SPÜLA
+ZOMMENFOSSUNG
 WEIDA
-SPÜLAUTSTÄRKEN
+SPÜLAUTSTÄRKN
 VABUNDN
-Du bist als Wissenschoftler entkuma und trittst dem MTF bei.
-Du bist als Klosse-D entkuma und trittst dea Chaos Insurgency bei.
+Du bist als Wissenschoftla entkuman und trittst am MTF bei.
+Du bist als Klosse-D entkuman und trittst dea Chaos Insurgency bei.
 DU BIST
-Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
-Woat [time] bist du wieder [item] benutzen konnst.
-HOID <color=white><b>F1</b></color> FIA MEHR INFORMATIONEN
-Du bist gefesslt woan\n<size=40>Foig den Onweisungen oda frog deine Teammates um Hüfe</size>
-Du bist wida eigfonga worn vo de Nine-Tailed Fox.\nMid ana Gfohr weniga in da Eirichtung, homs Vastärkung griagn kina.
-Du bist gfonga gnuma worn ois Wissnschoftla vo dea Chaos Insurgency.\nSe hom si an Voatei durch dei Info hoin kina.
-RUNDN STARTET IN: <color=yellow>{0}</color>s
-RUNDN START IS <color=#FF5050>PAUSIERT</color>
+Fluchtzat: [escape_minutes] Minutn und [escape_seconds] Sekundn.
+Woat [time], bist wieda [item] benutzn konnst.
+HOID <color=white><b>F1</b></color> FIA MEHR INFORMATIONAN
+Du bist gfesslt woadn\n<size=40>Fuig den Onwasungen oda frog dane Teammates um Hüfe</size>
+Du bist wida von de Nine-Tailed Fox eigfongan woadn.\nMit ana Gfohr weniga in da Eirichtung, homs Vastärkung kriagn kennan.
+Du bist ois Wissnschoftla vo dea Chaos Insurgency gfongan woadn.\nSe hom si an Voateil durch dei Info hoin kennan.
+RUNDN STOATET IN: <color=yellow>{0}</color>s
+RUNDN STOAT IS <color=#FF5050>PAUSIERT</color>
