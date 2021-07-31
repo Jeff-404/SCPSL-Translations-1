@@ -2,9 +2,9 @@
 1~Wissenschoftla Zuagongskoatn
 2~Hauptwissenschoftla Zuagongskoatn
 3~Zonenmanager Zuagongskoatn
-4~Sichaheitspersonal Zuagongskoatn
+4~Sichahatspersonal Zuagongskoatn
 5~MTF Gfreiter Zuagongskoatn
-6~Eindämmungsingenieur Zuagongskoatn
+6~Eidämmungsingenieur Zuagongskoatn
 7~MTF Hauptmonn Zuagongskoatn
 8~MTF Untaoffizir Zugangskarte
 9~Eirichtungsmanager Zuagongskoatn
@@ -14,24 +14,24 @@
 13~COM-15 Pistoin
 14~Erste Hüfe Pakerl~Heilt deine Wundn!
 15~Toschenlompen~Es wiad Licht!
-16~Micro H.I.D.~Mobiler\nHochintensiva\nEnergieentlodungswerfer
-17~SCP-500~Des Allheilmittl
+16~Micro H.I.D.~Mobiler\nHochintensiva\nEnergieentlodungswerfa
+17~SCP-500~As Allheilmittl
 18~SCP-207~Erhöht auf schädliche Weise de motorischen Fähigkeitn.
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Splittagranatn~Es mocht Boom!
-26~Blendgranatn~Blendet deine Feinde!
+25~Splittagranotn~Es mocht Boom!
+26~Blendgranotn~Blendet dane Feinde!
 30~COM-18
-31~SCP-018~Superboi, wöcha mit ana extremen Effizienz herum springt
-32~SCP-268~Wenn trogen, mocht er di fia a boar Sekunden unsichtbar, außa du wirst durch Interaktionen onderer Spieler gstört.
-33~Adrenaline~Erhöht dei Ausdauer vorübergehnd.
+31~SCP-018~Superboi, wöcha mit ana extreman Effizienz harum springt
+32~SCP-268~Wenn trogen, mocht a di fia a poar Sekunden unsichtbar, außa du wirst durch Interaktionan ondera Spüla gsteat.
+33~Adrenalin~Erhöht dei Ausdauer vorübergehnd.
 34~Schmerzmittel~Lindat leichte Verletzungen.
 35~Coin~Warum genau trogst du des bei dia?
-36~Leichte Köapaponzerung
+36~Leichte Keapaponzerung
 37~Kompfponzerung
-38~Schware Köaperponzerung
-39~.44 Revoiver
+38~Schware Keaperponzerung
+39~.44 Revuiver
 40~AK
-41~Schrotflintm
+41~Schrotflintn
