@@ -2,14 +2,14 @@ Munition {0}/{1} {2}
 Schodn
 Feierrotn
 Hüftfeier Genauigkeit
-Zülende Genauigkeit
+Zülnde Genauigkeit
 Gwicht
-Längn
+Längan
 DROP:
-Höm Wirksomkeit
-Westn Wirksomkeit
+Höm Wirksomkat
+Westn Wirksomkat
 Ausdauervabrauch
-Bewegungsgschwindigkeit
+Bewegungsgschwindigkat
 Itemlimit:
 Munitionslimit:
 {0} total
