@@ -3,17 +3,17 @@ FOIG ONWEISUNGEN
 GLEICHA RONG
 Kloss-D Personal entkuman
 Wissenschoftla übalebt
-umbrocht vo SCP's
-zeastörte SCP's
+umbrocht von SCP's
+zastearte SCP's
 Alpha Warhead
-zündet
+zundn
 ung'nutzt
-De nächste Rundn fongt in [time] Sekundn o.
+De nächste Rundn fongt in [time] Sekundn on.
 SPEZIALFÄHIGKEIT
 ERSTÖH DREGLOCH
 NUTZ DREGLOCH
-DU BIST G'STORBEN
-Du bist umbrocht wordn vo
+DU BIST G'STOABN
+Du bist umbrocht wordn von
 ois
 passiv
 (vasteckt)
